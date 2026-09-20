@@ -12,4 +12,28 @@ The repository includes:
 - Example analyses for 78 Red Mulberry individuals from six populations
 - Reproducible workflows suitable for research, teaching, and conservation genetics applications
 
-...
+## Workflow
+
+```text
+SSR Genotypes
+      ↓
+STRUCTURE
+(K=1–10)
+      ↓
+Structure Harvester
+(Evanno ΔK)
+      ↓
+CLUMPP
+(Label Alignment)
+      ↓
+POPHELPER
+(Visualization)
+      ↓
+Publication-Ready Figures
+```
+
+## Author
+
+Madhav Nepal, Ph.D.
+Professor
+South Dakota State University
