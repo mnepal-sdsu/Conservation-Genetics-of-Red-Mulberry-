@@ -1,0 +1,12 @@
+#define NOADMIX     0
+#define FREQSCORR   1
+
+#define INFERALPHA  1
+#define ALPHA       1.0
+
+#define INFERLAMBDA 0
+#define LAMBDA      1.0
+
+#define USEPOPINFO  0
+
+#define PRINTKLD    1
