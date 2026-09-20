@@ -1,0 +1,21 @@
+#define MAXPOPS    10
+#define BURNIN     500000
+#define NUMREPS    1000000
+
+#define INFILE     data/Mulberry_STRUCTURE.txt
+#define OUTFILE    results/output
+
+#define PLOIDY     2
+#define NUMINDS    78
+#define NUMLOCI    6
+
+#define MISSING    -9
+
+#define LABEL      1
+#define POPDATA    1
+#define POPFLAG    0
+
+#define PHENOTYPE  0
+#define EXTRACOLS  0
+#define MARKERNAMES 0
+#define RECESSIVEALLELES 0
